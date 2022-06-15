@@ -1,0 +1,2 @@
+create database bd_pensamientoComputacionalTest;
+use bd_pensamientoComputacionalTest;
